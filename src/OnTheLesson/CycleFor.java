@@ -58,7 +58,7 @@ public class CycleFor {
                 case 6 -> show.Cycles();
                 default -> System.out.println("Спокойной ночи");
                            }
-            System.out.println("Comment for my first commit ");
+
         }
 
     }
