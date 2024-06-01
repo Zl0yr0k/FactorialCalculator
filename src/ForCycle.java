@@ -11,21 +11,6 @@ public class ForCycle {
 
         System.out.println("Как заказывали! Все пары положительных целых чисел!");
 
-  //      int countPairs = 0;
-
-//        for (int i = 0; i <= valueNumber; i++) {
-//            for (int j = 0; j <= valueNumber; j++) {
-//                int multiplication = i * j;
-//                if (multiplication == valueNumber) {
-//                    System.out.println(i + " * " + j);
-//                    countPairs++;
-//                }
-//            }
-//
-//   // System.out.println("Всего у нас "+ countPairs + " пар(ы) положительных целых чисел" );
-
-
-
         for ( int i =1 ; i <= valueNumber; i++) {
 
             if (valueNumber % i == 0) {
