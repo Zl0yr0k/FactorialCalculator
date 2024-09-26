@@ -60,7 +60,7 @@ public class CycleFor {
                            }
 
         }
-
+        System.out.println("Текст для определения коммита в ветке swimmingPool");
     }
 
 }
