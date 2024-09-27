@@ -63,6 +63,7 @@ public class CycleFor {
 
         System.out.println("Этот текст для проверки изменений в мастер коммите. Эти изменения остануться только в матере");
 
+        System.out.println("Текст для определения коммита в ветке swimmingPool");
     }
 
 }
